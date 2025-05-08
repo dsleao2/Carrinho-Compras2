@@ -1,2 +1,1 @@
-# Carrinho-Compras2
-
+Projeto Carrinho de Compras 
